@@ -1,4 +1,4 @@
-On# Acrylic Toolkit Blur for UWP
+# Acrylic Toolkit Blur for UWP
 Add HostBackdrop with this library to your UWP app. HostBackdrop adds blur and transparency through the window (by the specified element on XAML). If you want give a Neon look for you app, so this is the lib! This is based on the open-source UWP Community Toolkit.
 
 # How to use?
