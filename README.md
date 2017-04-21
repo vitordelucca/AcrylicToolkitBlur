@@ -6,8 +6,7 @@ The very first thing you need to do, is to add as a [nuget package to your proje
 
 After that, you need to add to your XAML these 3 lines first:
 ```
-   xmlns:acrylic="using:Microsoft.Toolkit.Uwp.UI.Animations.Behaviors"
-   xmlns:core="using:Microsoft.Xaml.Interactions.Core"   
+   xmlns:acrylic="using:Mika.Toolkit.Uwp.UI.Animations.Behaviors"  
    xmlns:interactivity="using:Microsoft.Xaml.Interactivity"
   ``` 
    
@@ -33,7 +32,7 @@ Here is the full "code" on a sample app:
     xmlns:local="using:App3"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    xmlns:acrylic="using:Microsoft.Toolkit.Uwp.UI.Animations.Behaviors"
+    xmlns:acrylic="using:Mika.Toolkit.Uwp.UI.Animations.Behaviors"
     xmlns:core="using:Microsoft.Xaml.Interactions.Core"
     xmlns:interactivity="using:Microsoft.Xaml.Interactivity"
     mc:Ignorable="d">
